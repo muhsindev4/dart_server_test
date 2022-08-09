@@ -2,7 +2,7 @@ name: otp_server
 description: A server app using the shelf package and Docker.
 version: 1.0.0
 environment:
-  sdk: '>=2.0.0 <3.0.0'
+     sdk: '>=2.0.0 <3.0.0'
 
 dependencies:
   args:
@@ -12,7 +12,5 @@ dependencies:
 
 dev_dependencies:
   http:
-  lints:
-  test:
-  build_runner:
-  build_web_compilers:
+
+
