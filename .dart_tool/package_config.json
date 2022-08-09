@@ -14,14 +14,14 @@
       "languageVersion": "2.17"
     },
     {
-      "name": "args",
-      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/args-2.3.1",
+      "name": "archive",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/archive-3.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
-      "name": "asn1lib",
-      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/asn1lib-1.1.0",
+      "name": "args",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/args-2.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -32,16 +32,88 @@
       "languageVersion": "2.14"
     },
     {
+      "name": "bazel_worker",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/bazel_worker-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
       "name": "boolean_selector",
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/boolean_selector-2.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
-      "name": "clock",
-      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/clock-1.1.1",
+      "name": "build",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/build-2.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "build_config",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/build_config-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "build_daemon",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/build_daemon-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "build_modules",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/build_modules-4.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "build_resolvers",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/build_resolvers-2.0.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "build_runner",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/build_runner-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "build_runner_core",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/build_runner_core-7.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "build_web_compilers",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/build_web_compilers-3.2.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "built_collection",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/built_collection-5.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "built_value",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/built_value-8.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "checked_yaml",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/checked_yaml-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "code_builder",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/code_builder-4.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
     },
     {
       "name": "collection",
@@ -57,7 +129,7 @@
     },
     {
       "name": "coverage",
-      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/coverage-1.5.0",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/coverage-1.3.2",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
@@ -68,32 +140,20 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "crypto_keys",
-      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/crypto_keys-0.3.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "dio",
-      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/dio-4.0.6",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "equatable",
-      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/equatable-2.0.3",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "faye_dart",
-      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/faye_dart-0.1.1+2",
+      "name": "dart_style",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/dart_style-2.2.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "file",
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/file-6.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "fixnum",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/fixnum-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -108,6 +168,12 @@
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/glob-2.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.15"
+    },
+    {
+      "name": "graphs",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/graphs-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "http",
@@ -134,20 +200,8 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "intl",
-      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/intl-0.17.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "io",
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/io-1.0.3",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "jose",
-      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/jose-0.3.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -212,14 +266,14 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "pointycastle",
-      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/pointycastle-3.6.1",
+      "name": "pool",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/pool-1.5.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
-      "name": "pool",
-      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/pool-1.5.1",
+      "name": "protobuf",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/protobuf-2.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -230,10 +284,16 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "quiver",
-      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/quiver-3.1.0",
+      "name": "pubspec_parse",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/pubspec_parse-1.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "scratch_space",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/scratch_space-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
     },
     {
       "name": "shelf",
@@ -296,10 +356,10 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "stream_feed",
-      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/stream_feed-0.6.0+2",
+      "name": "stream_transform",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/stream_transform-2.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.12"
     },
     {
       "name": "string_scanner",
@@ -332,20 +392,20 @@
       "languageVersion": "2.14"
     },
     {
+      "name": "timing",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/timing-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "typed_data",
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/typed_data-1.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
-      "name": "uuid",
-      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/uuid-3.0.6",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "vm_service",
-      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/vm_service-9.3.0",
+      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/vm_service-8.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
@@ -368,12 +428,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "x509",
-      "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/x509-0.2.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "yaml",
       "rootUri": "file:///C:/Users/Dell/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/yaml-3.1.1",
       "packageUri": "lib/",
@@ -386,7 +440,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2022-08-09T09:08:34.528159Z",
+  "generated": "2022-08-09T11:03:43.489744Z",
   "generator": "pub",
   "generatorVersion": "2.17.3"
 }
