@@ -437,10 +437,10 @@
       "name": "otp_server",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.0"
     }
   ],
-  "generated": "2022-08-09T14:17:53.400231Z",
+  "generated": "2022-08-09T14:21:21.752334Z",
   "generator": "pub",
   "generatorVersion": "2.17.3"
 }
